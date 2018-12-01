@@ -4,6 +4,7 @@ Liazoncoin integration/staging tree
 http://www.liazoncoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Litecoin-project Developers
 Copyright (c) 2017-2018 Liaison-project Developers
 
 What is Liazoncoin?
